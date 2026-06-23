@@ -1,0 +1,45 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Environment
+.env
+.env.local
+.env*
+
+# Dependencies & build
+node_modules/
+/node_modules
+.next/
+/.next/
+/out/
+/build
+
+# testing
+/coverage
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE settings
+.vscode/
+
+# Internal AI planning artifacts
+prd.md
+requirements.md
+agent_rules.md
+implementation_plan.md
+walkthrough.md
+task.md
