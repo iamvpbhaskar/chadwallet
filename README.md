@@ -145,12 +145,7 @@ NEXT_PUBLIC_BIRDEYE_API_KEY=your_birdeye_api_key_here
 
 ---
 
-## 🌐 Deployment
-
-Deploy the production bundle to **Vercel** with a single command or by linking your GitHub repository. Ensure to add your credentials in Vercel's environment settings.
-
----
 
 <div align="center">
-  <sub>Built as a take-home assignment for the <strong>ChadWallet Founding Engineer</strong> position.</sub>
+  <sub>Built for the <strong>ChadWallet Founding Engineer</strong> position.</sub>
 </div>
